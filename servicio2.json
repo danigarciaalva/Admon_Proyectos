@@ -1,0 +1,34 @@
+{
+  "peliculas":[
+		{
+			"titulo":"Monsters University",
+			"fecha":"26/06/13",
+			"descripcion":"Esta pelicula es de monstruitos",
+			"autor":"Monsters Inc",
+			"images":[
+				"/home/poodle/ImagenesServicio/01.jpg",
+				"/home/poodle/ImagenesServicio/02.jpg"
+			]
+		},
+		{
+			"titulo":"Guerra Mundial Z",
+			"fecha":"26/06/13",
+			"descripcion":"Esta pelicula es de zombies",
+			"autor":"Brad Pitt",
+			"images":[
+				"/home/poodle/ImagenesServicio/03.jpg",
+				"/home/poodle/ImagenesServicio/04.jpg"
+			]
+		},
+		{
+			"titulo":"Zambezia",
+			"fecha":"26/06/13",
+			"descripcion":"Esta pelicula es de caricatura",
+			"autor":"Sepa su mama",
+			"images":[
+				"/home/poodle/ImagenesServicio/05.jpg",
+				"/home/poodle/ImagenesServicio/06.jpg"
+			]
+		}
+	] 
+}
