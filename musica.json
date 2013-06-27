@@ -1,0 +1,67 @@
+{
+  "artistas":[
+		{
+			"nombre":"Guns N Roses",
+			"integrantes":[
+				"Axl Rose", "Dizzy Reed", "Tommy Stinson","Chris Pitman","Richard Fortus","Ron Thal (Bumblefoot)","Frank Ferrer","DJ Ashba"
+			],
+			"origen":"Hollywood",
+			"discografia":[
+				{
+					"album":"Appetite for Destruction",
+					"anio": 1987,
+					"canciones":[
+						{
+							"titulo":"Welcome To The Jungle",
+							"duracion":"(4:32)"
+						},
+						{
+							"titulo":"It's So Easy",
+							"duracion":"(3:21)"
+						},
+						{
+							"titulo":"Nightrain",
+							"duracion":"(4:26)"
+						},
+						{
+							"titulo":"Out Ta Get Me",
+							"duracion":"(4:20)"
+						},
+						{
+							"titulo":"Mr. Brownstone",
+							"duracion":"(3:46)"
+						},
+						{
+							"titulo":"Paradise City",
+							"duracion":"(6:45)"
+						},
+						{
+							"titulo":"My Michelle",
+							"duracion":"(3:38)"
+						},
+						{
+							"titulo":"Think About You",
+							"duracion":"(3:49)"
+						},
+						{
+							"titulo":"Sweet Child O' Mine",
+							"duracion":"(5:54)"
+						},
+						{
+							"titulo":"You're Crazy",
+							"duracion":"(3:16)"
+						},
+						{
+							"titulo":"Anything Goes",
+							"duracion":"(3:25)"
+						},
+						{
+							"titulo":"Rocket Queen",
+							"duracion":"(6:14)"
+						}
+					]
+				}
+			]
+		}
+	]
+}
